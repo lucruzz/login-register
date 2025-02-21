@@ -7,5 +7,5 @@
 
 * [ ] Register page
 * [ ] Login page
-* [x] ~Fixar o header e flexibilizar (tornar responsivo)~
-* [x] ~Tornar botão de login adaptável ao tamanho da tela (resize)~
+* [x] ~Fix the header and make it flexible (make it responsive)~
+* [x] ~Make login button adaptable to screen size (resize)~
